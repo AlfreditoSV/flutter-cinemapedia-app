@@ -1,0 +1,10 @@
+export 'movies/initial_loading.dart';
+export 'home/app_theme_notifier.dart';
+export 'movies/movies_notifier.dart';
+export 'movies/movies_tmdb_provider.dart';
+export 'movies/movies_slideshow.dart';
+export 'movies/movies_tmdb_popularity.dart';
+export 'movies/movies_tmdb_top_rated.dart';
+export 'movies/movies_tmdb_upcoming.dart';
+export 'movies/movie_info.dart';
+export 'actors/actors_by_movies.dart';
